@@ -208,6 +208,7 @@ public class Magpie4
         }
         else if (whichResponse == 2)
         {
+            response = "That's cool.";
 		}
 		else if (whichResponse == 3)
 		{

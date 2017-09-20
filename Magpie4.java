@@ -8,7 +8,7 @@
  *</li></ul>
  * @author Laurie White
  * @version April 2012
- *
+ * UDPATE BY: JOHN SO, JUSTIN LEE
  */
 public class Magpie4
 {
